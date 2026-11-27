@@ -12,6 +12,10 @@ GitHub Pages：<https://zhuanzhuan11.github.io/iopo3.0/>
 - `docs/`：项目范围、维护和发布说明。
 - `.github/workflows/pages.yml`：推送到 `main` 后自动发布 GitHub Pages。
 
+## 使用说明
+
+平台内可点击“使用指南”查看图文操作说明和常见问题；完整文字版见 [`docs/用户使用与操作说明.md`](docs/用户使用与操作说明.md)。说明会区分当前可体验的模拟操作与仍待开发的正式商家流程。
+
 ## 本地查看
 
 直接用浏览器打开 `apps/storefront/index.html`。本地打开时浏览器权限可能限制部分功能；通过 Pages 链接体验更完整。
